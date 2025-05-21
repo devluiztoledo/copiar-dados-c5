@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         A7 Relatório TP-LINK C5 - Luiz Toledo
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Coleta modelo, dispositivos, DNS, largura de canal, UPnP e uptime do Archer C5 automaticamente.
 // @author       Luiz Toledo
 // @match        *://*/*
@@ -97,8 +97,8 @@ IPV6: ${ipv6}
 UPnP: ${upnp}
 DNS Primário: ${dns1}
 DNS Secundário: ${dns2}
-Rede 2.4 com canal em ${canal24} e largura em ${largura24} MHz
-Rede 5G com canal em ${canal5} e largura em ${largura5} MHz
+Rede 2.4 com canal em ${canal24} e largura em ${largura24} 
+Rede 5G com canal em ${canal5} e largura em ${largura5} 
 Uptime: ${uptime}
 `.trim();
 
