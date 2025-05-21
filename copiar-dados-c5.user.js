@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         A7 Relatório TP-LINK C5
+// @name         A7 Relatório TP-LINK C5 - Luiz Toledo
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Coleta modelo, dispositivos, DNS, largura de canal, UPnP e uptime do Archer C5 automaticamente.
